@@ -9,7 +9,6 @@ comments: true
 ---
 
 # 숫자맞히기 게임을 시작해봅시다!
-
 # Let's paly the up&down game!
 
 ---
