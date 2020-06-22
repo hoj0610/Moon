@@ -14,7 +14,7 @@ comments: true
 
 ---
 
-##python code
+## python code
 
 {% highlight css %}
 import random
