@@ -26,6 +26,8 @@ print(name+"는 "+str(age)+"살입니다.")
 print(name+"는 어른일까요? " + str(is_abult))
 {% endhighlight %}
 
+---
+
 ## result
 {% highlight css %}
 Python 3.8.3 (tags/v3.8.3:6f8c832, May 13 2020, 22:20:19) [MSC v.1925 32 bit (Intel)] on win32
