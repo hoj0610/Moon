@@ -8,6 +8,8 @@ comments: false
     
 <center><a href="https://hoj0610.github.io/"><b>THIS</b></a> IS MY HOMEPAGE. WELCOME!</center>
 
+---
+
 ## 소개
 * 은진
 * 대한민국
