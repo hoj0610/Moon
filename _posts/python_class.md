@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "파이썬 강의 소개"
-date:   2016-03-15
+date:   2020-06-23
 excerpt: "Introduction to Python Class."
 tag:
 - sample
