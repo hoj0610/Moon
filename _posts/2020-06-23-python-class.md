@@ -13,3 +13,11 @@ comments: true
 
 - 이 비디오는 파이썬 입문자에게 매우 유용한 강의영상입니다.
 - This clip is very useful for beginners.
+
+{% highlight html %}
+영상 링크(link) : "//www.youtube.com/embed/SU3kYxJmWuQ"
+{% endhighlight %}
+
+---
+
+[BACK](https://hoj0610.github.io/posts/){: .btn}
