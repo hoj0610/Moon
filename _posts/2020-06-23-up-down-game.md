@@ -2,7 +2,7 @@
 layout: post
 title: "숫자맞히기 게임"
 date: 2020-06-22
-excerpt: "UP&DOWN GAME"
+excerpt: "UP-DOWN GAME"
 tags: [sample post, readability, test, image, feature]
 feature: './images-git/하늘.jpg
 comments: true
