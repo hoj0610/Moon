@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "파이썬 강의 소개"
+title:  "파이썬 강의 추천"
 date:   2020-06-23
 excerpt: "Introduction to Python Class."
 tag:
