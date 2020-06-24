@@ -15,7 +15,7 @@ comments: true
 - This clip is very useful for beginners.
 
 {% highlight html %}
-영상 링크(link) : "//www.youtube.com/embed/SU3kYxJmWuQ"
+영상 링크(link) : "https://www.youtube.com/watch?v=kWiCuklohdY&t=2554s"
 {% endhighlight %}
 
 ---
