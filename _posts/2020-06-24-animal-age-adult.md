@@ -45,4 +45,9 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 ---
 
+- 이 프로그램은 자신의 반려동물 종, 이름, 나이를 입력하면 그 반려동물이 어른인지 판별해줍니다.
+- 어른의 기준을 3살로 잡았으므로, 변경을 원한다면 'is_abult = age >= 3'에서 숫자 '3'자리에 원하는 숫자를 입력하세요.
+
+---
+
 [BACK](https://hoj0610.github.io/posts/){: .btn}
