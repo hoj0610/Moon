@@ -1,0 +1,40 @@
+---
+layout: post
+title: "홀수 짝수"
+date: 2013-05-22
+excerpt: "even odd"
+tags: [sample post, images, test]
+comments: true
+---
+# <center>입력한 숫자는 홀수일까요, 짝수일까요?</center>
+# <center>Is the number entered odd or even?</center>
+
+---
+
+## python code
+
+{% highlight css %}
+def even_odd(num):
+    if num != 0:
+        if num % 2 == 0:
+            print(num, "is even")
+        else:
+            print(num, "is odd")
+{% endhighlight %}
+
+---
+
+## result
+{% highlight css %}
+Python 3.8.3 (tags/v3.8.3:6f8c832, May 13 2020, 22:20:19) [MSC v.1925 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=================== RESTART: C:\Users\PC\Desktop\공부용\홀수 짝수.py ==================
+>>> even_odd(23423)
+23423 is odd
+>>> 
+{% endhighlight %}
+
+---
+
+[BACK](https://hoj0610.github.io/posts/){: .btn}
