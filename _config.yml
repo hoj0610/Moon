@@ -4,7 +4,7 @@ bio:                '프로그래밍 복습 / 프로젝트 / 각종 정보'
 description:        "이 홈페이지는 제 공부 파일이나 프로젝트들을 모아 두는 곳입니다. 제 아이디는 'hoj0610' 또는 'nao0730' 입니다. This homepage gathers Eun Jin's study files and projects. My IDs are 'hoj0610' or 'nao0730'."
 reading_time:       true
 words_per_minute:   200
-logo:               './images-git/꾸질이.jpg'
+logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
