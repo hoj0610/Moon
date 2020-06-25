@@ -7,6 +7,7 @@ tag:
 - post
 - information
 - python
+feature: "./images-git/기린그림.jpg"
 comments: true
 ---
 <iframe width="560" height="315" src="//www.youtube.com/watch?v=kWiCuklohdY&t=2554s" frameborder="0"> </iframe>
