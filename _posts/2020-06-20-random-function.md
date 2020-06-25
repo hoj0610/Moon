@@ -4,9 +4,9 @@ title:  "랜덤 함수 복습"
 date:   2020-06-23
 excerpt: "random function"
 tag:
-- sample
 - post
-- video
+- programming
+- python
 comments: true
 ---
 # <center>랜덤 함수</center>
