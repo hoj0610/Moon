@@ -4,9 +4,9 @@ title:  "나의 반려동물은 아이일까 어른일까?"
 date:   2020-06-23
 excerpt: "Is my pet a child or an adult?"
 tag:
-- sample
 - post
-- video
+- programming
+- python
 comments: true
 ---
 # <center>나의 반려동물을 소개해봅시다.</center>
