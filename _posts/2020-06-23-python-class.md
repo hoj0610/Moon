@@ -15,7 +15,7 @@ comments: true
 - This clip is useful for beginners.
 
 
-### 영상 링크(link) : <a href="https://www.youtube.com/watch?v=kWiCuklohdY&t=2554s"><b>https://www.youtube.com/watch?v=kWiCuklohdY&t=2554s</b></a> ""
+### 영상 링크(link) : <a href="https://www.youtube.com/watch?v=kWiCuklohdY&t=2554s"><b>"https://www.youtube.com/watch?v=kWiCuklohdY&t=2554s"</b></a>
 
 ---
 
