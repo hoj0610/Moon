@@ -3,7 +3,10 @@ layout: post
 title: "숫자맞히기 게임"
 date: 2013-05-22
 excerpt: "up-down game"
-tags: [sample post, images, test]
+tags: 
+- post
+- programming
+- python
 comments: true
 ---
 # <center>숫자맞히기 게임을 시작해봅시다!</center>
