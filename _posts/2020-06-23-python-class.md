@@ -14,9 +14,8 @@ comments: true
 - 파이썬 학습에 도움되는 영상입니다.
 - This clip is useful for beginners.
 
-{% highlight html %}
-영상 링크(link) : "https://www.youtube.com/watch?v=kWiCuklohdY&t=2554s"
-{% endhighlight %}
+
+### 영상 링크(link) : <a href="https://www.youtube.com/watch?v=kWiCuklohdY&t=2554s"><b>https://www.youtube.com/watch?v=kWiCuklohdY&t=2554s</b></a> ""
 
 ---
 
