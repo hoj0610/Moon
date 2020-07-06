@@ -10,7 +10,7 @@ tag:
 feature: "./images-git/기린그림.jpg"
 comments: true
 ---
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=kWiCuklohdY&t=2554s" frameborder="0"> </iframe>
+<iframe width="893" height="502" src="https://www.youtube.com/embed/kWiCuklohdY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - 파이썬 학습에 도움되는 영상입니다.
 - This clip is useful for beginners.
